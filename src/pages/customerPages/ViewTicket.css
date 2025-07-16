@@ -1,0 +1,50 @@
+.ticket-list-section {
+    margin: 2rem auto;
+    max-width: 700px;
+    width: 100%;
+    padding: 0 1rem;
+}
+
+.ticket-list-title {
+    text-align: center;
+    font-weight: 700 !important;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 2rem !important;
+}
+
+.ticket-list-stack {
+    width: 100%;
+}
+
+.ticket-list-card {
+    border-radius: 18px !important;
+    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.12) !important;
+    background: #fff !important;
+    padding: 1rem 0.5rem !important;
+}
+
+.ticket-list-desc {
+    font-size: 1.1rem !important;
+    color: #333 !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.no-tickets {
+    text-align: center;
+    color: #888;
+    font-size: 1.1rem;
+    margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+    .ticket-list-section {
+        max-width: 98vw;
+        padding: 0 0.2rem;
+    }
+    .ticket-list-card {
+        padding: 0.5rem 0.2rem !important;
+    }
+}

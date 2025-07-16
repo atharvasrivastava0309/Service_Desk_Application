@@ -1,0 +1,94 @@
+.Appbar {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    color: white !important;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
+
+.container{
+    display: flex;
+    margin-left: 1px !important;
+    background: transparent !important;
+    color: white;
+    width: 100%;
+    box-shadow: none;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.leftItems{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    flex: 1;
+}
+
+.rightItems{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.brand-logo {
+    font-weight: 700 !important;
+    background: linear-gradient(45deg, #fff, #f0f8ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-right: 20px;
+}
+
+.brand-logo:hover {
+    transform: scale(1.05);
+}
+
+.rightItems .MuiMenuItem-root {
+    color: white !important;
+    font-weight: 500 !important;
+    transition: all 0.3s ease !important;
+}
+
+.rightItems .MuiMenuItem-root:hover {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    border-radius: 20px !important;
+}
+
+.signup-btn {
+    background: linear-gradient(45deg, #ff6b6b, #ee5a24) !important;
+    border-radius: 25px !important;
+    padding: 8px 20px !important;
+    transition: all 0.3s ease !important;
+    color: white !important;
+    margin-right: 10px;
+}
+
+.signup-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.4);
+    background: linear-gradient(45deg, #ee5a24, #ff6b6b) !important;
+}
+
+@media (max-width: 768px) {
+    .boxes {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .leftItems, .rightItems {
+        gap: 10px;
+    }
+    
+    .brand-logo {
+        margin-right: 0;
+    }
+}

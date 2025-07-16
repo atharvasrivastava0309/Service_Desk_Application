@@ -1,0 +1,48 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/dist
+/build
+
+# misc
+.DS_Store
+.env
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode
+.idea
+*.sublime-workspace
+*.sublime-project
+
+# local Firebase emulators (if used)
+.firebase/
+.firebaserc
+
+# Vite cache
+/.vite
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac system files
+*.DS_Store
+
+# Log files
+*.log
+
+# Optional: ignore local config files
+localhost_config.yaml
+ast.yml
+gin_juice.yaml
+emp
