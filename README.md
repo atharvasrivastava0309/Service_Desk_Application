@@ -16,16 +16,16 @@ Below is a visual overview of the platform’s pages and their functionality:
 
 | Page                  | Preview | Description |
 |-----------------------|---------|-------------|
-| **Hero Section** | ![Hero](.Screenshots/HeroHomePage.png) | Eye-catching homepage with a quick overview and navigation for different user roles. |
-| **Customer Dashboard** | ![Customers](.Screenshots/ForCustomers.png) | Customers can raise new tickets, monitor status, and view ticket history. |
-| **Administrator Panel** | ![Admins](.Screenshots/ForAdministrators.png) | Admins can assign agents, monitor performance, and configure system settings. |
-| **Support Agent Interface** | ![Agents](.Screenshots/ForSupportAgents.png) | Agents manage and resolve tickets, update statuses, and respond to users. |
-| **Testimonials Section** | ![Testimonials](.Screenshots/Testimonials.png) | Real feedback from satisfied customers and team members. |
-| **Subscription Plans** | ![Plans](.Screenshots/ChooseYourPlan.png) | Users can explore pricing tiers and choose plans according to their needs. |
-| **Sign In Page** | ![SignIn](.Screenshots/SignInPage.png) | Secure login portal with email/password authentication. |
-| **Create Account Page** | ![CreateAccount](.Screenshots/CreateAccountPage.png) | New users can register based on their role (Customer/Agent/Admin). |
-| **Ticketing System** | ![MyTickets](.Screenshots/MyTickets&RaiseTicketsPage.png) | Users can raise new tickets, view active ones, and track progress. |
-| **Ticket Submission Confirmation** | ![Success](.Screenshots/SuccessfulRaisedTicket.png) | Visual confirmation after successful ticket submission. |
+| **Hero Section** | ![Hero](./Screenshots/HeroHomePage.png) | Eye-catching homepage with a quick overview and navigation for different user roles. |
+| **Customer Dashboard** | ![Customers](./Screenshots/ForCustomers.png) | Customers can raise new tickets, monitor status, and view ticket history. |
+| **Administrator Panel** | ![Admins](./Screenshots/ForAdministrators.png) | Admins can assign agents, monitor performance, and configure system settings. |
+| **Support Agent Interface** | ![Agents](./Screenshots/ForSupportAgents.png) | Agents manage and resolve tickets, update statuses, and respond to users. |
+| **Testimonials Section** | ![Testimonials](./Screenshots/Testimonials.png) | Real feedback from satisfied customers and team members. |
+| **Subscription Plans** | ![Plans](./Screenshots/ChooseYourPlan.png) | Users can explore pricing tiers and choose plans according to their needs. |
+| **Sign In Page** | ![SignIn](./Screenshots/SignInPage.png) | Secure login portal with email/password authentication. |
+| **Create Account Page** | ![CreateAccount](./Screenshots/CreateAccountPage.png) | New users can register based on their role (Customer/Agent/Admin). |
+| **Ticketing System** | ![MyTickets](./Screenshots/MyTickets&RaiseTicketsPage.png) | Users can raise new tickets, view active ones, and track progress. |
+| **Ticket Submission Confirmation** | ![Success](./Screenshots/SuccessfulRaisedTicket.png) | Visual confirmation after successful ticket submission. |
 
 ---
 
